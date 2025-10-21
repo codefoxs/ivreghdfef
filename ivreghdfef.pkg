@@ -1,0 +1,15 @@
+v 0.1.2
+
+d Author:
+d - 公众号：凯恩斯学计量
+d
+d
+d KW: Instrument variable
+d KW: Weak IV test
+d KW: Hansen J test
+d 
+d Distribution-Date: 20251021
+d 
+
+f ivreghdfef.ado
+f ivreghdfef.sthlp

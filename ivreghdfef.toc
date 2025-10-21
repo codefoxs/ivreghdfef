@@ -1,0 +1,4 @@
+v 0.1.2
+d Author:
+d - 公众号：凯恩斯学计量
+p ivreghdfef - ivreghdfe output with constant term, F/LM tests and two stages
