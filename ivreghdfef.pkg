@@ -1,9 +1,5 @@
 v 0.1.2
-
-d Author:
-d - 公众号：凯恩斯学计量
-d
-d
+d 'IVREGHDFEF': module to run ivreghdfe with constant term, F/LM tests and two stages
 d KW: Instrument variable
 d KW: Weak IV test
 d KW: Hansen J test
