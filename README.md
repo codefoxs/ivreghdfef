@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> 由于标准误调整等问题，该命令二阶段结果标准误和 t 统计量会产生偏误，最新命令 ivreghdfe2 可修复该问题，前往：
+> https://github.com/codefoxs/ivreghdfe2
+> 考虑到已有较多用户使用该命令，故该仓库仍保留，但不再更新。
+
 # ivreghdfef
 ivreghdfe output with constant term, F/LM tests and two stages.
 
